@@ -1,0 +1,3 @@
+ENC 1101,Composition I,3
+ENC 1102,Composition II,3
+ENC 3246,Communication for Engineers,3

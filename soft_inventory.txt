@@ -1,0 +1,25 @@
+CAP 4034,Computer Animation Fundamentals,3
+CAP 4063,Web Application Design,3
+CAP 4401,Image Processing Fundamentals,3
+CAP 4410,Computer Vision,3
+CAP 4662,Introduction to Robotics,3
+CEN 4020,Software Engineering,3
+CEN 4072,Software Testing,3
+CAP 4621,Introduction to AI,3
+CIS 4345,Big Data Storage and Analysis with Hadoop,3
+CIS 4623,Practical Cybersecurity,3
+COP 4520,Programming on Massively Parallel Systems,3
+CAP 4628,Affective Computing,3
+CNT 4800,Network Science,3
+CAP 4103,Mobile Biometrics,3
+CAP 4773,Social Media Mining,3
+CNT 4004,Computer Networks I,3
+CNT 4411,Computing and Network Security,3
+CNT 4419,Secure Coding,3
+COP 4020,Programming Languages,3
+COP 4365,Software Systems Development,3
+COP 4620,Compilers,3
+COP 4656,Software Development for Mobile Devices,3
+COP 4710,Database Design,3
+CAP 4111,Intro to Augmented and Virtual Reality,3
+CAP 4641,Natural Language Processing,3

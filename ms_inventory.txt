@@ -1,0 +1,10 @@
+MAC 2281,Engineering Calculus I,4
+MAC 2311,Calculus I,4
+MAC 2282,Engineering Calculus II,4
+MAC 2312,Calculus II,4
+MAC 2283,Engineering Calculus III,4
+MAC 2313,Calculus III,4
+PHY 2048,General Physics I,3
+PHY 2048L,General Physics I Lab,1
+PHY 2049,General Physics II,3
+PHY 2049L,General Physics II Lab,1

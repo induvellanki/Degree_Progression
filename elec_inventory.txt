@@ -1,0 +1,40 @@
+CAP 4034,Computer Animation Fundamentals,3
+CAP 4063,Web Application Design
+CAP 4401,Image Processing Fundamentals
+CAP 4410,Computer Vision
+CAP 4800,Systems Simulation
+CDA 4203,Computer System Design,3
+CDA 4203L,Computer System Design Lab,1
+CDA 4213,CMOS-VLSI Design,3
+CDA 4213L,CMOS-VLSI Design Lab,1
+CEN 4072,Software Testing,3
+CEN 4721,User Interface Design,3
+CIS 4364,Cryptology and Information Security,3
+CNT 4004,Computer Networks I,3
+CNT 4411,Computing and Network Security,3
+CNT 4504,Computer Networks II,3
+COP 3257,JAVA Experienced Programmers,3
+COP 4365,Software Systems Development,3
+COP 4620,Compilers,3
+COP 4656,Software Development for Mobile Devices,3
+COP 4710,Database Design​,3
+COT 4115,Advanced Discrete Structures with Cryptology,3
+COT 4210,Automata Theory and Formal Languages,3
+COT 4521,Computational Geometry,3
+CIS 4900,Independent Study,1
+CIS 4900,Independent Study,2
+CIS 4900,Independent Study,3
+CIS 4900,Independent Study,4
+CIS 4900,Independent Study,5
+CIS 4910,Computer Science Project,3
+CIS 4915,Supervised Research,1
+CIS 4915,Supervised Research,2
+CIS 4915,Supervised Research,3
+CIS 4915,Supervised Research,4
+CIS 4915,Supervised Research,5
+CIS 4940,Industry Internship,0
+CIS 4940,Industry Internship,1
+CIS 4940,Industry Internship,2
+CIS 4940,Industry Internship,3
+CIS 4940,Industry Internship,4
+CIS 4940,Industry Internship,5

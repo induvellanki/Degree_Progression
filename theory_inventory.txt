@@ -1,0 +1,4 @@
+COT 4210,Automata Theory and Formal Languages,3
+COT 4521,Computational Geometry,3
+CIS 4212,Privacy Preserving Infrastructures,3
+COT 4142,Quantum Computing,3

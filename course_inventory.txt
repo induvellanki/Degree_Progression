@@ -1,0 +1,7 @@
+ENC 1101	Composition I	3	A
+ENC 1102	Composition II	3	A-
+PHI 2010	Intoduction to Philosophy	3	B+
+ENC 3246	Communications for Engineers	3	A
+PSY 2012	Intro to Psychological Science	3	A
+BSC 1005	Biological Prin For Non-Majors	3	A
+MAC 2312	Calculus II	4	B+

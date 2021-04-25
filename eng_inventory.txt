@@ -1,0 +1,4 @@
+EGN 3000,Foundations of Engineering,0
+EGN 3000L,Foundations of Engineering Lab,3
+EGN 3443,Probability and Statistics for Engineers,3
+EGN 4450,Introduction to Linear Systems,2

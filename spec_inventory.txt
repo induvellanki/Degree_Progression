@@ -1,0 +1,13 @@
+COP 2510,Programming Concepts,3
+COP 3514,Program Design,3
+COP 3331,Object-Oriented Software Design,3
+COP 4530,Data Structures,3
+COP 4600,Operating Systems,3
+CDA 3103,Computer Organization,3
+CDA 3201,Computer Logic and Design,3
+CDA 3201L,Computer Logic Design Lab,1
+CDA 4205,Computer Architecture,3
+CEN 4020,Software Engineering,3
+COT 3100,Introduction to Discrete Structures,3
+COT 4400,Analysis of Algorithms,3
+CIS 4250,Ethical Issues and Professional Conduct,3
