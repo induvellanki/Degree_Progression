@@ -1,1 +1,5 @@
 # Degree_Progression
+
+This program will serve as a tool for students by tracking their degree progression. Students will be able to add the classes they have taken with the corresponding number of credits and grade received while also be able to delete any classes they may have entered previously. GPA will be calculated depending on the credits and grades entered. Their current year will be calculated based on the number of credits taken. The program will also determine whether or not the student is on track to graduate with honors or not. If so, it will tell them which honors level.
+
+This program will also check to see if the student’s Computer Science requirements are satisfied. It checks the following requirements: Math and Science, Basic Engineering, Specialization, Composition and Technical Writing, Software Electives, Theory Electives, and Computer Science Electives. The program will compare a list of all possible classes in a Computer Science degree to the list of classes entered by the student to determine if requirements are satisfied. This program would be useful for students at USF pursuing a Computer Science B.S. degree with the 2018-19 catalog.
